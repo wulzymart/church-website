@@ -37,7 +37,7 @@ export default function LoginButton({
         )}
       >
         <LogIn className="h-4 w-4" />
-        <span className="hidden sm:inline">Login</span>
+        <span className="sm:inline">Login</span>
       </Button>
       <LoginModal isOpen={isModalOpen} onClose={closeModal} />
     </>

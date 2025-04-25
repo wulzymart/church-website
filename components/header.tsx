@@ -165,7 +165,7 @@ export default function Header() {
           </Link>
         </nav>
         <div className="mt-auto space-y-4">
-          <LoginButton variant="outline" className="w-full border-white text-white hover:bg-amber-800" />
+          <LoginButton variant="outline" className="w-full border-white text-amber-900 hover:bg-amber-800" />
           <Button className="w-full bg-white hover:bg-amber-100 text-amber-900">Donate Now</Button>
         </div>
       </div>

@@ -79,7 +79,7 @@ export default function ContactPage() {
               <div className="mt-12">
                 <h3 className="text-lg font-medium text-amber-900 mb-4">Connect With Us</h3>
                 <div className="flex gap-4">
-                  <a href="https://facebook.com/rccg.upperroomparish.9" className="bg-amber-100 p-3 rounded-full hover:bg-amber-200">
+                  <a target = '_blank' href="https://facebook.com/rccg.upperroomparish.9" className="bg-amber-100 p-3 rounded-full hover:bg-amber-200">
                     <svg className="h-6 w-6 text-amber-800" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                       <path
                         fillRule="evenodd"
@@ -88,12 +88,12 @@ export default function ContactPage() {
                       />
                     </svg>
                   </a>
-                  <a href="#" className="bg-amber-100 p-3 rounded-full hover:bg-amber-200">
+                  <a target = '_blank' href="#" className="bg-amber-100 p-3 rounded-full hover:bg-amber-200">
                   <svg xmlns="http://www.w3.org/2000/svg" className="h-6 w-6  text-amber-800" fill="currentColor" viewBox="0 0 24 24">
                 <path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
               </svg>
                   </a>
-                  <a href="#" className="bg-amber-100 p-3 rounded-full hover:bg-amber-200">
+                  <a target = '_blank' href="https://www.instagram.com/rccgtheupperroom?igsh=MWxuaDVoemtvMTNqag== " className="bg-amber-100 p-3 rounded-full hover:bg-amber-200">
                     <svg className="h-6 w-6 text-amber-800" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                       <path
                         fillRule="evenodd"
@@ -102,11 +102,12 @@ export default function ContactPage() {
                       />
                     </svg>
                   </a>
-                  <a href="#" className="bg-amber-100 p-3 rounded-full hover:bg-amber-200">
+                  <a target = '_blank' href="#" className="bg-amber-100 p-3 rounded-full hover:bg-amber-200">
                     <svg className="h-6 w-6 text-amber-800" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                       <path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z" />
                     </svg>
                   </a>
+                  <a target = '_blank' className="bg-amber-100 p-3 rounded-full hover:bg-amber-200" href="http://tiktok.com/@rccgupr_yaya"><svg className="h-6 w-6 text-amber-800" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true"><path d="M19.589 6.686a4.793 4.793 0 0 1-3.77-4.245V2h-3.445v13.672a2.896 2.896 0 0 1-5.201 1.743l-.002-.001.002.001a2.895 2.895 0 0 1 3.183-4.51v-3.5a6.329 6.329 0 0 0-5.394 10.692 6.33 6.33 0 0 0 10.857-4.424V8.687a8.182 8.182 0 0 0 4.773 1.526V6.79a4.831 4.831 0 0 1-1.003-.104z"/></svg></a>
                 </div>
               </div>
             </div>
