@@ -51,7 +51,7 @@ export default function Home() {
               <p className="text-amber-800">Community Members</p>
             </div>
             <div className="text-center">
-              <h3 className="text-5xl font-bold text-amber-900 mb-2">400+</h3>
+              <h3 className="text-5xl font-bold text-amber-900 mb-2">500+</h3>
               <p className="text-amber-800">Weekly Attendees</p>
             </div>
             <div className="text-center">
